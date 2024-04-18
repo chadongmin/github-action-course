@@ -1,3 +1,3 @@
 # github-action-course
 
-This is Test
+fastcampus CI/CD 강의 레포지토리
